@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">English Dictionary</string>
+    <string name="word_name">Word </string>
+    <string name="word_description">Description</string>
+    <string name="lire_audio">Audio</string>
+    <string name="lire_video">Video</string>
+</resources>
